@@ -1,0 +1,6 @@
+{
+  "vault": {
+    "admin_key": ["ADMIN123", "OWNER_KII"],
+    "user_key": ["USER001", "USER_TAMU"]
+  }
+}
